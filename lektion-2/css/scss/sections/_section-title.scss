@@ -1,0 +1,22 @@
+.section-title {
+    font-size: 16px;
+
+    .title {
+        font-size: 1.5em;
+        font-weight: 900;
+    }
+
+    .ingress {
+        color:#999999;
+
+        a {
+            color:green;
+
+            &:hover {
+                color: blue;
+            }
+        }
+    }
+
+
+}
